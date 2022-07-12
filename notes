@@ -1,0 +1,34 @@
+notes.txt
+
+let and const 
+ES5 and ES6
+ES = ECMASCRIPT
+
+to overcome the limitations of var , let and const are introduced 
+var = global scope can be re assign and also can be redeclared .
+let can be re assign but cannot re declare 
+const cannot be reassign and also cant be redeclared 
+let and const are called as  block scope
+
+spread operator/ rest operator: 
+
+... three dots 
+
+spread can be used in normal as well as arrays, can use many number of spread operators 
+rest operator can be used in arrays and inside the functions  => put the rest of array elements, we cannot use many operators
+must be the last parameter of the function. if not it throws error .
+
+destructuring:
+
+js expression that allows unplug the values from arrays or properties of objects.
+datas can be extracted from array , objects , nested objects.
+if we have n number of datas , and if we want to extract some particular data of a particular person , then we can go for destructuring 
+
+const { } = variable name
+
+template literals: works same as concatination ... to create a lengthy sentence.
+
+`${}`
+
+
+
